@@ -1,2 +1,2 @@
 # PetAPP
-Si señor
+Print("Adios poo poo")
